@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2020 The Android Open Source Project
   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
   in compliance with the License. You may obtain a copy of the License at
@@ -17,4 +16,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_dog_1">#EBA74B</color>
+    <color name="bg_dog_2">#E6A8A7</color>
+    <color name="bg_dog_3">#DFE6A7</color>
+    <color name="bg_dog_4">#A7E6AD</color>
+    <color name="bg_dog_5">#A7E6D5</color>
+    <color name="bg_dog_6">#A7BEE6</color>
+    <color name="bg_dog_7">#BDA7E6</color>
 </resources>
